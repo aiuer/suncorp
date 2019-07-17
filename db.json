@@ -1,0 +1,366 @@
+{
+  "user": [
+      {
+          "id": 1,
+          "citicreditid": "512000328",
+          "citiname": "谭靖薇",
+          "password": "123456",
+          "sex": "FM",
+          "nation": "汉族",
+          "address": "四川省成都市",
+          "identity": "4"
+      },
+      {
+          "id": 2,
+          "citicreditid": "512000329",
+          "citiname": "邓启圣",
+          "password": "123456",
+          "sex": "FM",
+          "nation": "汉族",
+          "address": "四川省成都市",
+          "identity": "2"
+      },
+      {
+          "id": 3,
+          "citicreditid": "512000330",
+          "citiname": "樊琳",
+          "password": "123456",
+          "sex": "FM",
+          "nation": "汉族",
+          "address": "四川省成都市",
+          "identity": "1"
+      }
+    ],
+  "news": [
+      {
+        "id": 1,
+        "type": 0,
+        "title": "坚守初心的好民警",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 2,
+        "type": 0,
+        "title": "宪法精神 法治力量——CCTV 2018年法治人...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 3,
+        "type": 0,
+        "title": "中国警察包揽第二届世界警察手枪射击赛所有冠军",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 4,
+        "type": 0,
+        "title": "第五届全国警犬技术比赛总决赛圆满结束",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 5,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 6,
+        "type": 0,
+        "title": "全力推进市局社区民警担任社区（村） 党组织副书记...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 7,
+        "type": 0,
+        "title": "公安局举行2018年高级执法资格考试",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 8,
+        "type": 0,
+        "title": "向世界展示中国警务理念和实践阳光公安开展全方位国...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 9,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 4,
+        "type": 0,
+        "title": "第五届全国警犬技术比赛总决赛圆满结束",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 5,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 6,
+        "type": 0,
+        "title": "全力推进市局社区民警担任社区（村） 党组织副书记...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 7,
+        "type": 0,
+        "title": "公安局举行2018年高级执法资格考试",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 8,
+        "type": 0,
+        "title": "向世界展示中国警务理念和实践阳光公安开展全方位国...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 9,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 4,
+        "type": 0,
+        "title": "第五届全国警犬技术比赛总决赛圆满结束",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 5,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 6,
+        "type": 0,
+        "title": "全力推进市局社区民警担任社区（村） 党组织副书记...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 7,
+        "type": 0,
+        "title": "公安局举行2018年高级执法资格考试",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 8,
+        "type": 0,
+        "title": "向世界展示中国警务理念和实践阳光公安开展全方位国...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      },
+      {
+        "id": 9,
+        "type": 0,
+        "title": "公安局创新推行党员社区民警兼任 社区（村）...",
+        "content": "fas",
+        "author": "asdf",
+        "date": "asfds"
+      }
+    ],
+  "permit": [
+      {
+          "id": "4",
+          "identity": "居民",
+          "permit_list": [
+            {
+              "name": "个人资料",
+              "path": "/user/personality"
+            },
+            {
+              "name": "我的信件",
+              "path": "/user/myletter"
+            }
+          ]
+      },
+      {
+        "id": "3",
+        "identity": "警察",
+        "permit_list": [
+            {
+                "name": "个人资料",
+                "path": "/user/personality"
+            },
+            {
+                "name": "我的信件",
+                "path": "/user/myletter"
+            },
+            {
+              "name": "添加工作动态",
+              "path": "/user/addWorkNews"
+            }
+          ]
+      },
+      {
+        "id": "2",
+        "identity": "片区管理员",
+        "permit_list": [
+            {
+                "name": "个人资料",
+                "path": "/user/personality"
+            },
+            {
+                "name": "我的信件",
+                "path": "/user/myletter"
+            },
+            {
+              "name": "管理登录用户信息",
+              "path": "/user/userinfoManage"
+            },
+            {
+              "name": "添加工作动态",
+              "path": "/user/addWorkNews"
+            },
+            {
+              "name": "投票管理",
+              "path": "/user/voteManage"
+            },
+            {
+              "name": "信件管理",
+              "path": "/user/area_letterManage"
+            }
+          ]
+      },
+      {
+        "id": "1",
+        "identity": "系统管理员",
+        "permit_list": [
+            {
+                "name": "个人资料",
+                "path": "/user/personality"
+            },
+            {
+                "name": "我的信件",
+                "path": "/user/myletter"
+            },
+            {
+              "name": "管理登录用户信息",
+              "path": "/user/userinfoManage"
+            },
+            {
+              "name": "系统管理",
+              "path": "/user/voteManage"
+            }
+          ]
+      },
+      {
+        "id": "0",
+        "identity": "局长",
+        "permit_list": [
+            {
+                "name": "个人资料",
+                "path": "/user/personality"
+            },
+            {
+                "name": "我的信件",
+                "path": "/user/myletter"
+            },
+            {
+              "name": "添加工作动态",
+              "path": "/user/addWorkNews"
+            },
+            {
+              "name": "收件箱",
+              "path": "/user/myletter"
+            },
+            {
+              "name": "信件回复",
+              "path": "/user/letterReturn"
+            }
+          ]
+      }
+  ],
+  "voteMes": [
+    {
+      "voteID": 1,
+      "vitename": "年度最佳警察",
+      "voteType": "单选",
+      "voteintro": "这是年度最佳警察",
+      "votetimebegin": "2019/05/19",
+      "votetimeend": "2019/08/30",
+      "ResultId": "001",
+      "voteItem": [
+        {
+          "itemID": 0,
+          "voteID": 1,
+          "itemCount": 10,
+          "itemName": "李四",
+          "itemIntro": "他是成都市龙泉驿区的一名普通的警察，立志除暴安良"
+        },
+        {
+          "itemID": 2,
+          "voteID": 1,
+          "itemCount": 7,
+          "itemName": "吴二",
+          "itemIntro": "他是成都市锦江区的一名普通的警察，立志除暴安良"
+        },
+        {
+          "itemID": 3,
+          "voteID": 1,
+          "itemCount": 50,
+          "itemName": "张三",
+          "itemIntro": "他是的一名成都市青羊区普通的警察，立志除暴安良"
+        },
+        {
+          "itemID": 4,
+          "voteID": 1,
+          "itemCount": 10,
+          "itemName": "李四",
+          "itemIntro": "他是成都龙泉驿区的一名普通的警察，立志除暴安良"
+        }
+      ]
+    },
+    {
+      "voteID": 2,
+      "vitename": "年度最佳处理事件",
+      "voteType": "单选",
+      "voteintro": "年度最佳处理事件",
+      "votetimebegin": "2019/05/30",
+      "votetimeend": "2019/09/30",
+      "ResultId": "001"
+    }
+  ]
+}
